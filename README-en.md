@@ -169,6 +169,8 @@ Thanks to [Kimi](https://platform.kimi.ai?track_id=track-f6b0a640d35c41deb03b247
 
 ### Creation Workflows
 
+- **Creative experiments:** Draft three distinct hooks from one brief in the WebUI, generate each through the normal video workflow, then [import aggregate analytics and compare observed outcomes](docs/creative-outcomes.md). No analytics platform login is required.
+
 - [x] Use **AI Agent, WebUI, API, or CLI** workflows for quick creation or automated production
 - [x] Go from a topic to script, voiceover, footage, subtitles, music, and editing automatically, while retaining control over every stage
 - [x] Generate multiple output variants in batches, review task history, and import or export generation settings and API keys
